@@ -1,5 +1,8 @@
 _repo: Definitions-in-Political-Economy-Preceded-by-an-Inquiry-Into-the-Rules-which-Ought-to-Guide-P__61483
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61483-h/images/cover.jpg
 creator:
   author:
     agent_name: Malthus, T. R. (Thomas Robert)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1411
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Malthus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61483#Definitions-in-Political-Economy-Preceded-by-an-Inquiry-Into-the-Rules-which-Ought-to-Guide-P_
 gutenberg_issued: '2020-02-22'
 gutenberg_type: Text
 identifiers:
